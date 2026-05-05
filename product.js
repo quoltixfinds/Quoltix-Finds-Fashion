@@ -31,6 +31,17 @@ const products = [
     affiliateLink: "https://affiliate.meesho.com/collection/MzA4NjUxMTo6Ojo6Om5vcm1hbA=="
   },
 
+    {
+    id: 4,
+    name: "Bodycon Midi Dress",
+    image: "Media/Products/QF-FS-4.jpeg",
+    category: "Dress",
+    tag: "trending",
+    sku: "QF-FS-4",
+    gender: "female",
+    affiliateLink: "https://affiliate.meesho.com/collection/MzMxMTY3MTo6Ojo6Om5vcm1hbA=="
+  },
+
   // {
   //   id: 4,
   //   name: "Yellow Summer Dress",
