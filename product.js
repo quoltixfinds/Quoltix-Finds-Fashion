@@ -50,6 +50,16 @@ const products = [
     gender: "female",
     affiliateLink: "https://affiliate.meesho.com/collection/MzM3NjAxNzo6Ojo6Om5vcm1hbA=="
   },
+      {
+    id: 6,
+    name: "Denim A-Line Dress",
+    image: "Media/Products/QF-FS-6.jpeg",
+    category: "Dress",
+    tag: "trending",
+    sku: "QF-FS-6",
+    gender: "female",
+    affiliateLink: "https://affiliate.meesho.com/collection/MzM5Mjk3MTo6Ojo6Om5vcm1hbA=="
+  },
 
   // {
   //   id: 4,
