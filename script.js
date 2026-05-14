@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (document.getElementById('search-results')) {
           // Index.html - show search results section
           document.getElementById('trending').style.display = 'none';
-          document.getElementById('best').style.display = 'none';
+          document.getElementById('couple').style.display = 'none';
           document.getElementById('search-results').style.display = 'block';
           const searchGrid = document.querySelector('#search-results .product-grid') || document.getElementById('search-results').appendChild(document.createElement('div'));
           searchGrid.className = 'product-grid';
@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (document.getElementById('search-results')) {
           // Index.html - show original sections
           document.getElementById('trending').style.display = 'block';
-          document.getElementById('best').style.display = 'block';
+          document.getElementById('couple').style.display = 'block';
           document.getElementById('search-results').style.display = 'none';
         } else if (document.getElementById('products-container')) {
           // Product.html - show all products
@@ -144,11 +144,11 @@ document.addEventListener('DOMContentLoaded', function () {
     const trendingProducts = products.filter(p => p.tag === 'trending');
     renderProducts(trendingGrid, trendingProducts);
   }
-  if (document.getElementById('best')) {
-    const bestGrid = document.querySelector('#best .product-grid') || document.getElementById('best').appendChild(document.createElement('div'));
-    bestGrid.className = 'product-grid';
-    const bestProducts = products.filter(p => p.tag === 'best');
-    renderProducts(bestGrid, bestProducts);
+  if (document.getElementById('couple')) {
+    const coupleGrid = document.querySelector('#couple .product-grid') || document.getElementById('couple').appendChild(document.createElement('div'));
+    coupleGrid.className = 'product-grid';
+    const coupleProducts = products.filter(p => p.tag === 'couple');
+    renderProducts(coupleGrid, coupleProducts);
   }
 
   // For product.html
@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function renderCategoriesView(productsList) {
       productsContainer.innerHTML = '';
-      const categories = ['Dress', 'pants', 'kurtas'];
+      const categories = ['Dress', 'Couple Wear', 'pants', 'kurtas'];
 
       categories.forEach(cat => {
         const catProducts = productsList.filter(p => p.category === cat);
