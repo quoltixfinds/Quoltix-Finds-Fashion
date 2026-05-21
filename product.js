@@ -90,4 +90,26 @@ const products = [
     gender: "unisex",
     affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3621887?p_id=520510821&ext_id=8lwcpx&utm_source=instagram_stories"
   },
+  {
+    id: 10,
+    name: "Blue Formal Outfit",
+    image: "Media/Products/QF-FS-10.jpeg",
+    category: "Men Fashion",
+    tag: "trending",
+    sku: "QF-FS-10",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/s/p/a39bi2?product_id=610135418&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=instagram_stories&external_product_id=a39bi2&af_reengagement_window=14d&c=216131561:instagram_stories:3732315"
+  },
+
+  {
+    id: 11,
+    name: "Grey Cargo Joggers",
+    image: "Media/Products/QF-FS-11.jpeg",
+    category: "Men Fashion",
+    tag: "trending",
+    sku: "QF-FS-11",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/s/p/7zbh7d?product_id=482585305&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=instagram_stories&external_product_id=7zbh7d&af_reengagement_window=14d&c=216131561:instagram_stories:3732333"
+  },
+
 ];
