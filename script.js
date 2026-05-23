@@ -748,6 +748,8 @@ document.addEventListener('DOMContentLoaded', function () {
     );
   }
 
+});
+
   // =========================
   // REDIRECT
   // =========================
@@ -757,5 +759,3 @@ document.addEventListener('DOMContentLoaded', function () {
     window.location.href =
       `redirect.html?id=${id}`;
   }
-
-});
