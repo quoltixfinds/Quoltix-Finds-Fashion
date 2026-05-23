@@ -111,5 +111,14 @@ const products = [
     gender: "male",
     affiliateLink: "https://www.meesho.com/s/p/7zbh7d?product_id=482585305&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=instagram_stories&external_product_id=7zbh7d&af_reengagement_window=14d&c=216131561:instagram_stories:3732333"
   },
-
+  {
+    id: 12,
+    name: "White Casual Kurta",
+    image: "Media/Products/QF-FS-12.jpeg",
+    category: "Men Fashion",
+    tag: "trending",
+    sku: "QF-FS-12",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3788930?p_id=100479226&ext_id=1ntm9m&utm_source=instagram_stories"
+  },
 ];
