@@ -131,4 +131,38 @@ const products = [
     gender: "male",
     affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3788930?p_id=100479226&ext_id=1ntm9m&utm_source=instagram_stories"
   },
+
+  {
+    id: 13,
+    name: "Checked Casual Shirt",
+    image: "Media/Products/QF-FS-13.jpeg",
+    category: "Shirt",
+    tag: "trending",
+    sku: "QF-FS-13",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3859909?p_id=415447193&ext_id=6vch3t&utm_source=instagram_stories"
+  },
+
+  {
+    id: 14,
+    name: "Checked Red Shirt",
+    image: "Media/Products/QF-FS-14.jpeg",
+    category: "Shirt",
+    tag: "trending",
+    sku: "QF-FS-14",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3860000?p_id=389211047&ext_id=6fq55z&utm_source=instagram_stories"
+  },
+
+  {
+    id: 15,
+    name: "Printed Casual Shirt",
+    image: "Media/Products/QF-FS-15.jpeg",
+    category: "Shirt",
+    tag: "trending",
+    sku: "QF-FS-15",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3860032?p_id=577761354&ext_id=9jzfii&utm_source=instagram_stories"
+  },
+
 ];
