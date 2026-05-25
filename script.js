@@ -136,8 +136,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
       viewMoreCard.addEventListener('click', () => {
 
-        window.location.href =
-          `product.html?gender=${genderFilter}`;
+        if (genderFilter) {
+
+          window.location.href =
+            `product.html?gender=${genderFilter}`;
+
+        } else {
+
+          window.location.href =
+            `product.html`;
+        }
+        
       });
 
       container.appendChild(viewMoreCard);
@@ -288,6 +297,39 @@ document.addEventListener('DOMContentLoaded', function () {
   // =========================
   // HOMEPAGE SECTIONS
   // =========================
+
+  // Trending
+
+  // Trending
+
+  if (
+    document.getElementById('trending')
+  ) {
+
+    const trendingGrid =
+      document.querySelector(
+        '#trending .product-grid'
+      ) ||
+
+      document
+        .getElementById('trending')
+        .appendChild(
+          document.createElement('div')
+        );
+
+    trendingGrid.className = 'product-grid';
+
+    const trendingProducts =
+      products.filter(
+        p => p.tag === 'trending'
+      );
+
+    renderLimitedProducts(
+      trendingGrid,
+      trendingProducts,
+      ''
+    );
+  }
 
   // Women
 
@@ -750,12 +792,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
 });
 
-  // =========================
-  // REDIRECT
-  // =========================
+// =========================
+// REDIRECT
+// =========================
 
-  function redirectToProduct(id) {
+function redirectToProduct(id) {
 
-    window.location.href =
-      `redirect.html?id=${id}`;
-  }
+  window.location.href =
+    `redirect.html?id=${id}`;
+}
