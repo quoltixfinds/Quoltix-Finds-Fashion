@@ -495,6 +495,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         'Dress',
         'Shirt',
+        'T-Shirt',
         'Cargo',
         'Kurta',
         'Sweatshirt',
