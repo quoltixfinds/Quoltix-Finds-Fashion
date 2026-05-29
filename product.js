@@ -165,4 +165,37 @@ const products = [
     affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3860032?p_id=577761354&ext_id=9jzfii&utm_source=instagram_stories"
   },
 
+  {
+    id: 16,
+    name: "Grey Polo T-Shirt",
+    image: "Media/Products/QF-FS-16.jpeg",
+    category: "T-Shirt",
+    tag: "casual",
+    sku: "QF-FS-16",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3993286?p_id=334160288&ext_id=5iy7q8&utm_source=instagram_stories"
+  },
+
+  {
+    id: 17,
+    name: "Striped Polo T-Shirt",
+    image: "Media/Products/QF-FS-17.jpeg",
+    category: "T-Shirt",
+    tag: "casual",
+    sku: "QF-FS-17",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3993360?p_id=492226147&ext_id=85244j&utm_source=instagram_stories"
+  },
+
+  {
+    id: 18,
+    name: "One Piece Graphic T-Shirt",
+    image: "Media/Products/QF-FS-18.jpeg",
+    category: "T-Shirt",
+    tag: "streetwear",
+    sku: "QF-FS-18",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3993793?p_id=496764429&ext_id=87rdvx&utm_source=instagram_stories"
+  },
+
 ];
