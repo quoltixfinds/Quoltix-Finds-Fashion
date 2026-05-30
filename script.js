@@ -94,10 +94,12 @@ document.addEventListener('DOMContentLoaded', function () {
       return;
     }
 
-    productsList.forEach(product => {
+    [...productsList]
+      .sort((a, b) => b.id - a.id)
+      .forEach(product => {
 
-      container.appendChild(createProductCard(product));
-    });
+        container.appendChild(createProductCard(product));
+      });
   }
 
   // =========================
@@ -112,7 +114,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     container.innerHTML = '';
 
-    const limitedProducts = productsList.slice(0, 7);
+    const limitedProducts = [...productsList]
+      .sort((a, b) => b.id - a.id)
+      .slice(0, 7);
 
     limitedProducts.forEach(product => {
 
@@ -146,7 +150,7 @@ document.addEventListener('DOMContentLoaded', function () {
           window.location.href =
             `product.html`;
         }
-        
+
       });
 
       container.appendChild(viewMoreCard);
