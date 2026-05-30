@@ -159,7 +159,7 @@ const products = [
     name: "Printed Casual Shirt",
     image: "Media/Products/QF-FS-15.jpeg",
     category: "Shirt",
-    tag: "trending",
+    tag: "casual",
     sku: "QF-FS-15",
     gender: "male",
     affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3860032?p_id=577761354&ext_id=9jzfii&utm_source=instagram_stories"
@@ -196,6 +196,72 @@ const products = [
     sku: "QF-FS-18",
     gender: "male",
     affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:3993793?p_id=496764429&ext_id=87rdvx&utm_source=instagram_stories"
+  },
+
+  {
+    id: 19,
+    name: "Teal Embroidered Kurta Set",
+    image: "Media/Products/QF-FS-19.jpeg",
+    category: "Kurta",
+    tag: "ethnic",
+    sku: "QF-FS-19",
+    gender: "female",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:4023374?p_id=521974073&ext_id=8mrprt&utm_source=instagram_stories"
+  },
+
+  {
+    id: 20,
+    name: "Olive Floral Kurta Set",
+    image: "Media/Products/QF-FS-20.jpeg",
+    category: "Kurta",
+    tag: "ethnic",
+    sku: "QF-FS-20",
+    gender: "female",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:4023398?p_id=668304691&ext_id=b1w377&utm_source=instagram_stories"
+  },
+
+  {
+    id: 21,
+    name: "Mustard Floral Kurta Set",
+    image: "Media/Products/QF-FS-21.jpeg",
+    category: "Kurta",
+    tag: "ethnic",
+    sku: "QF-FS-21",
+    gender: "female",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:4023466?p_id=521096590&ext_id=8m8wpa&utm_source=instagram_stories"
+  },
+
+  {
+    id: 22,
+    name: "Sunshine Couple Wear",
+    image: "Media/Products/QF-FS-22.jpeg",
+    category: "Couple Wear",
+    tag: "festive",
+    sku: "QF-FS-22",
+    gender: "unisex",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:4023515?p_id=583216449&ext_id=9n8cox&utm_source=instagram_stories"
+  },
+
+  {
+    id: 23,
+    name: "Royal Festive Couple Wear",
+    image: "Media/Products/QF-FS-23.jpeg",
+    category: "Couple Wear",
+    tag: "festive",
+    sku: "QF-FS-23",
+    gender: "unisex",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:4023537?p_id=578820527&ext_id=9km4rz&utm_source=instagram_stories"
+  },
+
+  {
+    id: 24,
+    name: "Golden Heritage Couple Wear",
+    image: "Media/Products/QF-FS-24.jpeg",
+    category: "Couple Wear",
+    tag: "festive",
+    sku: "QF-FS-24",
+    gender: "unisex",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:4023549?p_id=639986353&ext_id=al14mp&utm_source=instagram_stories"
   },
 
 ];
