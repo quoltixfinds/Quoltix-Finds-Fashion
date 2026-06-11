@@ -263,5 +263,15 @@ const products = [
     gender: "unisex",
     affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:4023549?p_id=639986353&ext_id=al14mp&utm_source=instagram_stories"
   },
+  {
+    id: 25,
+    name: "Mocha Everyday Outfit",
+    image: "Media/Products/QF-FS-25.jpeg",
+    category: "Outfit",
+    tag: "casual",
+    sku: "QF-FS-25",
+    gender: "female",
+    affiliateLink: "https://affiliate.meesho.com/collection/NDQ1MDY3OTo6Ojo6Om5vcm1hbA=="
+  },
 
 ];
