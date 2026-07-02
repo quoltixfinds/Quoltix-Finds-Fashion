@@ -274,4 +274,70 @@ const products = [
     affiliateLink: "https://affiliate.meesho.com/collection/NDQ1MDY3OTo6Ojo6Om5vcm1hbA=="
   },
 
+  {
+    id: 26,
+    name: "Polka Chic Outfit",
+    image: "Media/Products/QF-FS-26.jpeg",
+    category: "Outfit",
+    tag: "casual",
+    sku: "QF-FS-26",
+    gender: "female",
+    affiliateLink: "https://affiliate.meesho.com/collection/NTQwODY1ODo6Ojo6Om5vcm1hbA=="
+  },
+
+  {
+    id: 27,
+    name: "Monochrome Chic Outfit",
+    image: "Media/Products/QF-FS-27.jpeg",
+    category: "Outfit",
+    tag: "casual",
+    sku: "QF-FS-27",
+    gender: "female",
+    affiliateLink: "https://affiliate.meesho.com/collection/NTQwODg3ODo6Ojo6Om5vcm1hbA=="
+  },
+
+  {
+    id: 28,
+    name: "Charcoal Formal Outfit",
+    image: "Media/Products/QF-FS-28.jpeg",
+    category: "Outfit",
+    tag: "formal",
+    sku: "QF-FS-28",
+    gender: "male",
+    affiliateLink: "https://affiliate.meesho.com/collection/NTQwOTIwMTo6Ojo6Om5vcm1hbA=="
+  },
+
+  {
+    id: 29,
+    name: "Black & White Formal Outfit",
+    image: "Media/Products/QF-FS-29.jpeg",
+    category: "Outfit",
+    tag: "formal",
+    sku: "QF-FS-29",
+    gender: "male",
+    affiliateLink: "https://affiliate.meesho.com/collection/NTQwOTI3OTo6Ojo6Om5vcm1hbA=="
+  },
+
+  {
+    id: 30,
+    name: "Classic Formal Outfit",
+    image: "Media/Products/QF-FS-30.jpeg",
+    category: "Outfit",
+    tag: "formal",
+    sku: "QF-FS-30",
+    gender: "male",
+    affiliateLink: "https://affiliate.meesho.com/collection/NTQwOTM0MDo6Ojo6Om5vcm1hbA=="
+  },
+
+  {
+    id: 31,
+    name: "Sage Leaf Shirt",
+    image: "Media/Products/QF-FS-31.jpeg",
+    category: "Shirt",
+    tag: "casual",
+    sku: "QF-FS-31",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:5409412?p_id=469130147&ext_id=7rb34z&utm_source=instagram_stories"
+  },
+
 ];
