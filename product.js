@@ -340,4 +340,15 @@ const products = [
     affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:5409412?p_id=469130147&ext_id=7rb34z&utm_source=instagram_stories"
   },
 
+  {
+    id: 32,
+    name: "Typography Polo T-Shirt",
+    image: "Media/Products/QF-FS-32.jpeg",
+    category: "T-Shirt",
+    tag: "casual",
+    sku: "QF-FS-32",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:5449472?p_id=430702251&ext_id=74ffzf&utm_source=instagram_stories"
+  },
+
 ];
