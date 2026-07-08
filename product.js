@@ -351,4 +351,26 @@ const products = [
     affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:5449472?p_id=430702251&ext_id=74ffzf&utm_source=instagram_stories"
   },
 
+  {
+    id: 33,
+    name: "Sage Striped Shirt",
+    image: "Media/Products/QF-FS-33.jpeg",
+    category: "Shirt",
+    tag: "casual",
+    sku: "QF-FS-33",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:5785410?p_id=42720957&ext_id=pfnp9&utm_source=instagram_stories"
+  },
+
+  {
+    id: 34,
+    name: "Mocha Abstract Co-ord Set",
+    image: "Media/Products/QF-FS-34.jpeg",
+    category: "Outfit",
+    tag: "casual",
+    sku: "QF-FS-34",
+    gender: "female",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:5785475?p_id=675089704&ext_id=b5xijs&utm_source=instagram_stories"
+  },
+
 ];
