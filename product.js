@@ -372,5 +372,25 @@ const products = [
     gender: "female",
     affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:5785475?p_id=675089704&ext_id=b5xijs&utm_source=instagram_stories"
   },
+  {
+    id: 35,
+    name: "Terracotta Printed Outfit",
+    image: "Media/Products/QF-FS-35.jpeg",
+    category: "Outfit",
+    tag: "casual",
+    sku: "QF-FS-35",
+    gender: "female",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:5911828?p_id=521199301&ext_id=8mb3yd&utm_source=instagram_stories"
+  },
+  {
+    id: 36,
+    name: "Espresso Minimal Outfit",
+    image: "Media/Products/QF-FS-36.jpeg",
+    category: "Outfit",
+    tag: "casual",
+    sku: "QF-FS-36",
+    gender: "female",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:5911852?p_id=690010262&ext_id=betbbq&utm_source=instagram_stories"
+  },
 
 ];
