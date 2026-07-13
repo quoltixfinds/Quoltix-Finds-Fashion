@@ -392,5 +392,35 @@ const products = [
     gender: "female",
     affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:5911852?p_id=690010262&ext_id=betbbq&utm_source=instagram_stories"
   },
+  {
+    id: 37,
+    name: "Textured Coffee Shirt",
+    image: "Media/Products/QF-FS-37.jpeg",
+    category: "Shirt",
+    tag: "casual",
+    sku: "QF-FS-37",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:6082074?p_id=648727747&ext_id=aq8hj7&utm_source=instagram_stories"
+  },
+  {
+    id: 38,
+    name: "Blush Mandarin Shirt",
+    image: "Media/Products/QF-FS-38.jpeg",
+    category: "Shirt",
+    tag: "casual",
+    sku: "QF-FS-38",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:6082121?p_id=417859731&ext_id=6ws6mr&utm_source=instagram_stories"
+  },
+  {
+    id: 39,
+    name: "Beige Stripe Shirt",
+    image: "Media/Products/QF-FS-39.jpeg",
+    category: "Shirt",
+    tag: "casual",
+    sku: "QF-FS-39",
+    gender: "male",
+    affiliateLink: "https://www.meesho.com/af_invite/216131561:instagram_stories:6082138?p_id=475460931&ext_id=7v2s03&utm_source=instagram_stories"
+  },
 
 ];
