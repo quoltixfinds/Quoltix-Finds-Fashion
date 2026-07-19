@@ -28,67 +28,35 @@ window.APP_DATA = window.APP_DATA || {};
 
 window.APP_DATA.categories = [
   {
-    slug: 'dresses',
-    name: 'Dresses',
-    tagline: 'Midis, maxis, and everything in between.',
+    slug: 'men',
+    name: 'Men',
+    tagline: 'Everyday essentials with timeless style.',
     description:
-      'Florals, stripes, denim and bodycon silhouettes — dresses picked for how they actually look worn, not just laid flat.',
-    image: 'https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=1200&auto=format&fit=crop'
+      'Shirts, T-shirts, cargo joggers, kurtas and complete outfits curated for every occasion—from casual days to festive celebrations.',
+    image: 'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1200&auto=format&fit=crop'
   },
   {
-    slug: 'shirts',
-    name: 'Shirts',
-    tagline: 'Checks, stripes, and clean solids that work anywhere.',
+    slug: 'women',
+    name: 'Women',
+    tagline: 'Elegant pieces made for every moment.',
     description:
-      'Casual and formal shirting in colors and textures that layer easily — built for the wardrobe you actually reach for.',
-    image: 'https://images.unsplash.com/photo-1598032895397-b9472444bf93?q=80&w=1200&auto=format&fit=crop'
-  },
-  {
-    slug: 't-shirts',
-    name: 'T-Shirts',
-    tagline: 'Polos, graphics, and everyday staples.',
-    description:
-      "From clean polos to graphic streetwear tees — the pieces that carry an outfit when you're not trying too hard.",
-    image: 'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=1200&auto=format&fit=crop'
-  },
-  {
-    slug: 'cargo-joggers',
-    name: 'Cargo & Joggers',
-    tagline: 'Utility silhouettes built for movement.',
-    description:
-      'Relaxed-fit cargos and joggers with the pocket detail and drape that street style actually runs on.',
-    image: 'https://images.unsplash.com/photo-1517438476312-10d79c077509?q=80&w=1200&auto=format&fit=crop'
-  },
-  {
-    slug: 'kurtas',
-    name: 'Kurtas',
-    tagline: 'Everyday ethnic wear, done cleanly.',
-    description:
-      "Embroidered sets and simple solids for festive days and regular ones alike — ethnic wear that doesn't try too hard.",
-    image: 'https://images.unsplash.com/photo-1610189844772-b6b0b9a1c7c5?q=80&w=1200&auto=format&fit=crop'
-  },
-  {
-    slug: 'sweatshirts',
-    name: 'Sweatshirts',
-    tagline: 'Cozy layers for slower days.',
-    description:
-      "Easy, oversized comfort pieces — the ones you steal from the closet before anyone notices they're gone.",
-    image: 'https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=1200&auto=format&fit=crop'
-  },
-  {
-    slug: 'couple-wear',
-    name: 'Couple Wear',
-    tagline: 'Coordinated looks for two.',
-    description:
-      'Matching and complementary sets for weddings, festivals, and everyday pairing — made to photograph as well as they wear.',
-    image: 'https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=1200&auto=format&fit=crop'
+      'Discover dresses, kurtas and stylish everyday looks that blend comfort with effortless fashion.',
+    image: 'https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=1200&auto=format&fit=crop'
   },
   {
     slug: 'outfits',
     name: 'Outfits',
-    tagline: 'Full looks, already put together.',
+    tagline: 'Complete looks, already styled.',
     description:
-      'Co-ord sets and complete outfits spanning casual and formal — for when you want the styling decision already made.',
+      'Co-ord sets and complete outfits for men and women, carefully put together so you can wear them with confidence.',
     image: 'https://images.unsplash.com/photo-1551232864-3f0890e580d9?q=80&w=1200&auto=format&fit=crop'
+  },
+  {
+    slug: 'couple-wear',
+    name: 'Couple Wear',
+    tagline: 'Matching styles made for two.',
+    description:
+      'Coordinated outfits for couples—from festive celebrations to everyday moments, designed to complement each other effortlessly.',
+    image: 'https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=1200&auto=format&fit=crop'
   }
 ];
