@@ -32,9 +32,9 @@
 
 window.APP_DATA = window.APP_DATA || {};
 window.APP_DATA.products = [
-  {
+    {
     id: 'qf-1',
-    categorySlug: 'dresses',
+    categorySlug: 'women',
     name: "Floral Midi Dress",
     sku: 'QF-FS-1',
     image: 'Media/Products/QF-FS-1.jpeg',
@@ -44,7 +44,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-2',
-    categorySlug: 'dresses',
+    categorySlug: 'women',
     name: "Striped Maxi Dress",
     sku: 'QF-FS-2',
     image: 'Media/Products/QF-FS-2.jpeg',
@@ -54,7 +54,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-3',
-    categorySlug: 'dresses',
+    categorySlug: 'women',
     name: "Yellow Midi Dress",
     sku: 'QF-FS-3',
     image: 'Media/Products/QF-FS-3.jpeg',
@@ -64,7 +64,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-4',
-    categorySlug: 'dresses',
+    categorySlug: 'women',
     name: "Bodycon Midi Dress",
     sku: 'QF-FS-4',
     image: 'Media/Products/QF-FS-4.jpeg',
@@ -74,7 +74,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-5',
-    categorySlug: 'dresses',
+    categorySlug: 'women',
     name: "Striped Maxi Dress",
     sku: 'QF-FS-5',
     image: 'Media/Products/QF-FS-5.jpeg',
@@ -84,7 +84,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-6',
-    categorySlug: 'dresses',
+    categorySlug: 'women',
     name: "Denim A-Line Dress",
     sku: 'QF-FS-6',
     image: 'Media/Products/QF-FS-6.jpeg',
@@ -114,7 +114,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-9',
-    categorySlug: 'sweatshirts',
+    categorySlug: 'couple-wear',
     name: "Casual Couple Sweatshirt",
     sku: 'QF-FS-9',
     image: 'Media/Products/QF-FS-9.jpeg',
@@ -124,7 +124,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-10',
-    categorySlug: 'shirts',
+    categorySlug: 'men',
     name: "Blue Formal Outfit",
     sku: 'QF-FS-10',
     image: 'Media/Products/QF-FS-10.jpeg',
@@ -132,9 +132,9 @@ window.APP_DATA.products = [
     affiliateLink: 'https://www.meesho.com/s/p/a39bi2?product_id=610135418&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=instagram_stories&external_product_id=a39bi2&af_reengagement_window=14d&c=216131561:instagram_stories:3732315',
     addedAt: '2026-04-22'
   },
-  {
+    {
     id: 'qf-11',
-    categorySlug: 'cargo-joggers',
+    categorySlug: 'men',
     name: "Grey Cargo Joggers",
     sku: 'QF-FS-11',
     image: 'Media/Products/QF-FS-11.jpeg',
@@ -144,7 +144,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-12',
-    categorySlug: 'kurtas',
+    categorySlug: 'men',
     name: "White Casual Kurta",
     sku: 'QF-FS-12',
     image: 'Media/Products/QF-FS-12.jpeg',
@@ -154,7 +154,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-13',
-    categorySlug: 'shirts',
+    categorySlug: 'men',
     name: "Checked Casual Shirt",
     sku: 'QF-FS-13',
     image: 'Media/Products/QF-FS-13.jpeg',
@@ -164,7 +164,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-14',
-    categorySlug: 'shirts',
+    categorySlug: 'men',
     name: "Checked Red Shirt",
     sku: 'QF-FS-14',
     image: 'Media/Products/QF-FS-14.jpeg',
@@ -174,7 +174,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-15',
-    categorySlug: 'shirts',
+    categorySlug: 'men',
     name: "Printed Casual Shirt",
     sku: 'QF-FS-15',
     image: 'Media/Products/QF-FS-15.jpeg',
@@ -184,7 +184,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-16',
-    categorySlug: 't-shirts',
+    categorySlug: 'men',
     name: "Grey Polo T-Shirt",
     sku: 'QF-FS-16',
     image: 'Media/Products/QF-FS-16.jpeg',
@@ -194,7 +194,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-17',
-    categorySlug: 't-shirts',
+    categorySlug: 'men',
     name: "Striped Polo T-Shirt",
     sku: 'QF-FS-17',
     image: 'Media/Products/QF-FS-17.jpeg',
@@ -204,7 +204,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-18',
-    categorySlug: 't-shirts',
+    categorySlug: 'men',
     name: "One Piece Graphic T-Shirt",
     sku: 'QF-FS-18',
     image: 'Media/Products/QF-FS-18.jpeg',
@@ -214,7 +214,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-19',
-    categorySlug: 'kurtas',
+    categorySlug: 'women',
     name: "Teal Embroidered Kurta Set",
     sku: 'QF-FS-19',
     image: 'Media/Products/QF-FS-19.jpeg',
@@ -224,7 +224,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-20',
-    categorySlug: 'kurtas',
+    categorySlug: 'women',
     name: "Olive Floral Kurta Set",
     sku: 'QF-FS-20',
     image: 'Media/Products/QF-FS-20.jpeg',
@@ -232,9 +232,9 @@ window.APP_DATA.products = [
     affiliateLink: 'https://www.meesho.com/af_invite/216131561:instagram_stories:4023398?p_id=668304691&ext_id=b1w377&utm_source=instagram_stories',
     addedAt: '2026-05-21'
   },
-  {
+    {
     id: 'qf-21',
-    categorySlug: 'kurtas',
+    categorySlug: 'women',
     name: "Mustard Floral Kurta Set",
     sku: 'QF-FS-21',
     image: 'Media/Products/QF-FS-21.jpeg',
@@ -332,9 +332,9 @@ window.APP_DATA.products = [
     affiliateLink: 'https://affiliate.meesho.com/collection/NTQwOTM0MDo6Ojo6Om5vcm1hbA==',
     addedAt: '2026-06-18'
   },
-  {
+    {
     id: 'qf-31',
-    categorySlug: 'shirts',
+    categorySlug: 'men',
     name: "Sage Leaf Shirt",
     sku: 'QF-FS-31',
     image: 'Media/Products/QF-FS-31.jpeg',
@@ -344,7 +344,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-32',
-    categorySlug: 't-shirts',
+    categorySlug: 'men',
     name: "Typography Polo T-Shirt",
     sku: 'QF-FS-32',
     image: 'Media/Products/QF-FS-32.jpeg',
@@ -354,7 +354,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-33',
-    categorySlug: 'shirts',
+    categorySlug: 'men',
     name: "Sage Striped Shirt",
     sku: 'QF-FS-33',
     image: 'Media/Products/QF-FS-33.jpeg',
@@ -394,7 +394,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-37',
-    categorySlug: 'shirts',
+    categorySlug: 'men',
     name: "Textured Coffee Shirt",
     sku: 'QF-FS-37',
     image: 'Media/Products/QF-FS-37.jpeg',
@@ -404,7 +404,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-38',
-    categorySlug: 'shirts',
+    categorySlug: 'men',
     name: "Blush Mandarin Shirt",
     sku: 'QF-FS-38',
     image: 'Media/Products/QF-FS-38.jpeg',
@@ -414,7 +414,7 @@ window.APP_DATA.products = [
   },
   {
     id: 'qf-39',
-    categorySlug: 'shirts',
+    categorySlug: 'men',
     name: "Beige Stripe Shirt",
     sku: 'QF-FS-39',
     image: 'Media/Products/QF-FS-39.jpeg',
