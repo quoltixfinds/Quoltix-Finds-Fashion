@@ -32,7 +32,7 @@
 
 window.APP_DATA = window.APP_DATA || {};
 window.APP_DATA.products = [
-    {
+  {
     id: 'qf-1',
     categorySlug: 'women',
     name: "Floral Midi Dress",
@@ -132,7 +132,7 @@ window.APP_DATA.products = [
     affiliateLink: 'https://www.meesho.com/s/p/a39bi2?product_id=610135418&af_force_deeplink=true&host_internal=single_product&pid=meesho_affiliate_portal&is_retargeting=true&af_click_lookback=7d&product_name=product&utm_source=instagram_stories&external_product_id=a39bi2&af_reengagement_window=14d&c=216131561:instagram_stories:3732315',
     addedAt: '2026-04-22'
   },
-    {
+  {
     id: 'qf-11',
     categorySlug: 'men',
     name: "Grey Cargo Joggers",
@@ -232,7 +232,7 @@ window.APP_DATA.products = [
     affiliateLink: 'https://www.meesho.com/af_invite/216131561:instagram_stories:4023398?p_id=668304691&ext_id=b1w377&utm_source=instagram_stories',
     addedAt: '2026-05-21'
   },
-    {
+  {
     id: 'qf-21',
     categorySlug: 'women',
     name: "Mustard Floral Kurta Set",
@@ -332,7 +332,7 @@ window.APP_DATA.products = [
     affiliateLink: 'https://affiliate.meesho.com/collection/NTQwOTM0MDo6Ojo6Om5vcm1hbA==',
     addedAt: '2026-06-18'
   },
-    {
+  {
     id: 'qf-31',
     categorySlug: 'men',
     name: "Sage Leaf Shirt",
@@ -421,5 +421,35 @@ window.APP_DATA.products = [
     gender: 'male',
     affiliateLink: 'https://www.meesho.com/af_invite/216131561:instagram_stories:6082138?p_id=475460931&ext_id=7v2s03&utm_source=instagram_stories',
     addedAt: '2026-07-14'
+  },
+  {
+    id: 'qf-40',
+    categorySlug: 'women',
+    name: "Royal Maroon Kurta",
+    sku: 'QF-FS-40',
+    image: 'Media/Products/QF-FS-40.jpeg',
+    gender: 'female',
+    affiliateLink: 'https://www.meesho.com/af_invite/216131561:instagram_stories:6631970?p_id=504377860&ext_id=8cakg4&utm_source=instagram_stories',
+    addedAt: '2026-07-17'
+  },
+  {
+    id: 'qf-41',
+    categorySlug: 'women',
+    name: "Floral Maxi Dress",
+    sku: 'QF-FS-41',
+    image: 'Media/Products/QF-FS-41.jpeg',
+    gender: 'female',
+    affiliateLink: 'https://www.meesho.com/af_invite/216131561:instagram_stories:6632034?p_id=499566831&ext_id=89fg8f&utm_source=instagram_stories',
+    addedAt: '2026-07-20'
+  },
+  {
+    id: 'qf-42',
+    categorySlug: 'women',
+    name: "Sage Floral Dress",
+    sku: 'QF-FS-42',
+    image: 'Media/Products/QF-FS-42.jpeg',
+    gender: 'female',
+    affiliateLink: 'https://www.meesho.com/af_invite/216131561:instagram_stories:6632051?p_id=437714056&ext_id=78lqbs&utm_source=instagram_stories',
+    addedAt: '2026-07-23'
   },
 ];
